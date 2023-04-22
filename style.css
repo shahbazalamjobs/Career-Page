@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+}
+
+.navbar {
+    background: linear-gradient(#24292f, black);
+    overflow: hidden;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 14px;
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar li {
+    float: left;
+    padding: 16px 16px;
+    color: #fff;
+
+}
+
+li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+li:hover {
+    color: rgba(190, 191, 202, 0.967);
+}
+
+a:hover {
+    color: rgba(190, 191, 202, 0.967);
+}
+
+.top-heading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+    letter-spacing: -0.03em;
+    color: #2d343b;
+    text-align: center;
+    margin-top: 80px;
+    line-height: 1;
+}
+
+.top-paragraph {
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+    margin-top: 45px;
+    font-size: 20px;
+    color: #656d76;
+    font-weight: 200;
+}
+
+.job-type {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+    margin-bottom: 500px;
+
+}
+
+.job-type-a {
+    text-decoration: none;
+    margin-right: 50px;
+    color: blue;
+}
+
+.job-type-a:hover {
+    color: blue;
+    border-bottom: 1px solid blue;
+}
+
+.yellow-heading {
+    color: rgb(11, 171, 11);
+}
+
+.yellow-heading:hover {
+    color: rgb(7, 120, 7);
+}
